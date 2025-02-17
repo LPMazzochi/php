@@ -4,4 +4,6 @@ echo "Meu primeiro código php  olá mundo456, <strong>Ketilin esta com o joelho
 
 echo "ola todos"
 
+echo "ola Leonardo";
+
 ?>
